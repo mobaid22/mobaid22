@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba, ben [Adınız Soyadınız]!
 
-<!--
-**mobaid22/mobaid22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği öğrencisi olarak, yazılım geliştirme ve teknolojiye olan tutkumla sürekli yeni şeyler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
 
-Here are some ideas to get you started:
+## Yeteneklerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Kategori | Teknolojiler |
+|---|---|
+| **Programlama Dilleri** | C# | 
+| **Frameworkler** | .NET, Flutter |
+| **Versiyon Kontrol** | Git |
+| **Ön Yüz Geliştirme** | HTML, CSS, JavaScript |
+| **Tasarım** | Figma |
+
+## Projelerim
+
+Çok yakında burada harika projelerimi bulacaksınız!
+
+## İletişim
+
+Bana ulaşmak için:
+
+- LinkedIn: [LinkedIn Profiliniz]
+- E-posta: [E-posta Adresiniz]
