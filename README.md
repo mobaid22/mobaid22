@@ -38,18 +38,11 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<div align="center">
+![MOHAMMED HUSSEIN OBAID's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobaid22&show_icons=true&theme=tokyonight)
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=mobaid22&show_icons=true&theme=tokyonight&hide=prs&count_private=true&hide_title=true" width="450" alt="mobaid22 GitHub Stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobaid22&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=mobaid22&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaid22&layout=compact&theme=tokyonight&hide_border=true" width="450" alt="Top Languages" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mobaid22&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 📌 Öne Çıkan Projelerim
