@@ -46,8 +46,23 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-https://github.com/mobaid22/NamazReact
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mobaid22&repo=repo2&theme=tokyonight)](https://github.com/mobaid22/repo2)
+### 🚀 [Öğrenci Bilgi Sistemi](https://github.com/mobaid22/ogrenci-bilgi-sistemi)
+.NET ve C# kullanarak geliştirdiğim masaüstü tabanlı öğrenci yönetim uygulaması. Kullanıcı dostu arayüz, öğrenci kayıt-silme-güncelleme gibi CRUD işlemleri, veritabanı bağlantısı içerir.  
+**Kullanılan Teknolojiler:** `C#`, `.NET`, `SQL Server`, `WinForms`
+
+---
+
+### 🌐 [Kişisel Portföy Web Sitesi](https://github.com/mobaid22/portfoy-web)
+HTML, CSS ve JavaScript ile sıfırdan tasarladığım duyarlı (responsive) portföy sitesi. Projelerimi sergilemek ve kendimi tanıtmak için kullanıyorum.  
+**Kullanılan Teknolojiler:** `HTML`, `CSS`, `JavaScript`
+
+---
+
+### 📱 [Not Hatırlatıcı Mobil Uygulama](https://github.com/mobaid22/not-hatirlatici)
+Flutter ile geliştirdiğim çapraz platform not alma uygulaması. Not ekleme, düzenleme ve silme özelliklerinin yanında bildirim sistemi de mevcut.  
+**Kullanılan Teknolojiler:** `Flutter`, `Dart`, `Firebase`
+
+
 
 ## 📈 Aktivite Grafiğim
 
