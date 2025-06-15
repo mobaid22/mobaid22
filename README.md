@@ -45,7 +45,7 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mobaid22&repo=repo1&theme=tokyonight)](https://github.com/mobaid22/repo1)
+https://github.com/mobaid22/NamazReact
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mobaid22&repo=repo2&theme=tokyonight)](https://github.com/mobaid22/repo2)
 
 ## 📈 Aktivite Grafiğim
