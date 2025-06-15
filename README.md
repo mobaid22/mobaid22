@@ -1,7 +1,15 @@
 # Merhaba, Ben MOHAMMED HUSSEIN OBAID! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36bcf7&width=435&lines=Bilgisayar Mühendisliği Öğrencisi%3BFull Stack Developer%3B✨ Kod ile Hayal Kuruyorum ✨)]
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Full+Stack+Developer;%E2%9C%A8+Kod+ile+Hayal+Kuruyorum+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/KULLANICI_ADINIZ?label=Takipçiler&style=social)](https://github.com/KULLANICI_ADINIZ)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&color=36BCF7&style=flat-square&label=Profil+Görüntülenme)](https://github.com/KULLANICI_ADINIZ)
+
+</div>
 ## 🚀 Hakkımda
 
 - 👨‍💻 Bilgisayar Mühendisliği Öğrencisi
